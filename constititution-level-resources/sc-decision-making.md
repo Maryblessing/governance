@@ -1,6 +1,8 @@
 # Steering Committee decision making process
 
-*This document is adapted from [OLS's governance document](https://github.com/open-life-science/ols-governance/blob/main/docs/decision-making-process.md).*
+:::{note}
+This document is adapted from [OLS's governance document](https://github.com/open-life-science/ols-governance/blob/main/docs/decision-making-process.md).
+:::
 
 In this document we outline how the Steering Committee will make decisions, and provide advice, in line with three guiding principles:
 
@@ -128,7 +130,7 @@ In the case of a tie (4/8 vote), the decision will pass if the Chair of the Stee
 
 ### Publicly archiving meeting agendas and notes
 
-Discussions held during Steering Committee meetings are transparently documentated.
+Discussions held during Steering Committee meetings are transparently documented.
 
 #### Implementation
 
@@ -150,7 +152,7 @@ We expect that the Steering Committee will meet at least four times per year.
 
 ### Summarising decisions in regular accessible reports
 
-Publicly archived meeting notes and public decision making votes art not sufficient for ensuring the community can meaningfully understand the Steering Committee's activity.
+Publicly archived meeting notes and public decision making votes are not sufficient for ensuring the community can meaningfully understand the Steering Committee's activity.
 
 #### Implementation
 
