@@ -19,7 +19,7 @@ In this document we outline how the Steering Committee will make decisions, and 
     * [Publicly archiving meeting agendas and notes](#publicly-archiving-meeting-agendas-and-notes)
     * [Summarising decisions in regular accessible reports](#summarising-decisions-in-regular-accessible-reports)
 
-At the end of the page we include a template [vote comment](#vote-comment-for-steering-committee-members) that can be used to document decision making requests in GitHub discussion posts.
+At the end of the page is a summary of how we [track decision making on GitHub](#tracking-decision-making-on-github) using discussions and a [voting issue](#vote-comment-for-steering-committee-members).
 
 ## Guiding principle: Inclusion
 
@@ -33,19 +33,15 @@ Therefore they should all be open for community discussion before a decision is 
 Before any decision is made by the Steering Committee, a dedicated GitHub discussion post at the [GitHub organisation level](https://github.com/orgs/the-turing-way/discussions) is created.
 This post should clearly outline the request and invite community members to express their concerns, feedback, and recommendations.
 
-Anyone can open a discussion asking for a decision or advice from the Steering Committee.
-They can draw the Steering Committee's attention to the request by using the "Governance" category when opening the discussion.
-The a member of the Steering Committee will add the [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`]((https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req)) (advice requested) labels as appropriate.
+For more details please see the guidance on [community input through a GitHub discussion](#community-input-through-a-discussion) below.
 
-If a decision is requested then a member of the Steering Committee will open a **vote comment** (see [template below](#public-voting)) in the governance repository, including an explicit timeline.
-
-The vote comment will be cross posted to the [`#community-discussion`](https://theturingway.slack.com/archives/C014KE9A9LM) channel in The Turing Way's [Slack workspace](https://theturingway.slack.com).
+The discussion will be cross posted to the [`#community-discussion`](https://theturingway.slack.com/archives/C014KE9A9LM) channel in The Turing Way's [Slack workspace](https://theturingway.slack.com).
 
 If appropriate, the discussion may also be disseminated through the project's monthly newsletter and/or discussed at a quarterly Community Forum.
 
 #### Timeframe
 
-For each request requiring committee input we ask that as much time as possible is provided.
+For each request requiring community input we ask that as much time as possible is provided.
 We recommend a minimum engagement period of 1 week.
 
 ### Asynchronous voting
@@ -68,7 +64,7 @@ The community will review the governance processes outlined in this document eve
 
 The Secretary of the Steering Committee will open a discussion asking for input and feedback on changes that could be made to improve the decisions making processes at the constitutional level across the project.
 
-#### Timeline
+#### Timeframe
 
 These documents will be reviewed between April and July every two years from the year they were approved (2025).
 
@@ -84,11 +80,11 @@ If a decision can be made at the maintenance level (by a working group or delive
 Members of the Steering Committee will comment in the discussion post if they recommend reassigning a request for a steering committee vote.
 If there is consensus across the Steering Committee the reassignment will happen by an individual member of the Steering Committe.
 However, if there are differences of opinion across members of the Steering Committee then a vote issue will be opened.
-One of the options in the [vote template](#public-voting) is to "reassign" the decision to a different group and the Steering Committee members can vote for that option.
+One of the options in the [template vote issue](#template-vote-issue) is to "reassign" the decision to a different group and the Steering Committee members can vote for that option.
 
 #### Timeframe
 
-Members of the Steering Committee will aim to reassign a governance request to a different team or open a vote to reassign within 1 week of the discussion thread being opened.
+Members of the Steering Committee will aim to reassign a governance request to a different team or open a vote to reassign within 1 week of a vote being requested in the discussion thread.
 
 ### Minimising abstentions
 
@@ -99,7 +95,7 @@ The Steering Committee agrees to limit the use of abstentions unless there is a 
 We note that in practice abstentions have the same effect as "disagree" votes as they make it harder for a vote to meet the majority needed to pass.
 
 Abstentions should not be used if the Steering Committee member does not feel that they have enough information to vote in either direction.
-They are encouraged to use the 😕 "Request more information" option and / or commit to an approve or disagree decision before the voting deadline.
+They are encouraged to use the 😕 "Request more information" option [when voting](#voting-in-an-issue) and / or commit to an approve or disagree decision before the voting deadline.
 
 ## Guiding principle: Transparency
 
@@ -109,17 +105,9 @@ Votes by the Steering Committee members will be public.
 
 #### Implementation
 
-Voting will take place via GitHub issue, where each Steering Committee member will be invited to comment and indicate their preference using the following options:
+Voting will take place via GitHub issue, where each Steering Committee member will be invited to comment and vote using emojis.
 
-1. 👍🏻 (thumbs up) or "endorse" - support the proposal
-1. 👎🏻 (thumbs down) or "reject" - do not support the proposal
-1. 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
-1. 👀 (eyes) or "abstain" - I'm not voting on this for a specific reason (e.g. conflict of interest)
-1. 🚀 (rocket) or "reassign" - this decision should be made at a different level
-
-This will often occur through comments and [using "emoji" reactions on a GitHub issue](https://github.blog/news-insights/product-news/add-reactions-to-pull-requests-issues-and-comments/). 
-
-We include a [template vote comment](#template-vote-comment) below.
+Please see the [voting in an issue](#voting-in-an-issue) section of [tracking decision making on GitHub](#tracking-decision-making-on-github) for more details.
 
 ### Respecting dissent
 
@@ -150,7 +138,7 @@ Additional agenda points can be proposed by Steering Committee members and share
 
 Note from the meeting will be archived in the [constititution-level-resources/meeting-notes](https://github.com/the-turing-way/governance/tree/main/constititution-level-resources/meeting-notes) folder in the project's [governance](https://github.com/the-turing-way/governance) repository.
 
-#### Timeline
+#### Timeframe
 
 The Steering Committee will meet as needed, with the cadance set by the Chair and Secretary, informed by the needs and interests of the committee members.
 
@@ -167,39 +155,70 @@ They will accompany this update with a short written report submitted via pull r
 
 The reports will be short and easy to understand, with links to additional details as the reader requires.
 
-#### Timeline
+#### Timeframe
 
 Verbal (in the Community Forum) and written (in the GitHub repository) reports will be made every three months.
 
-## Template vote comment
+## Tracking decision making on GitHub
 
-Below is a template vote comment that can be copied and pasted into a GitHub discussion thread.
+### Community input through a discussion
 
-You can see the first example of this process in discussion [#4316](https://github.com/orgs/the-turing-way/discussions/4316), in [this comment](https://github.com/orgs/the-turing-way/discussions/4316#discussioncomment-13937186).
+Anyone can open a discussion asking for a decision or advice from the Steering Committee.
+They can draw the Steering Committee's attention to the request by using the "Governance" category when opening the discussion.
 
-> # Vote Comment for Steering Committee members
+The a member of the Steering Committee will add the [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`]((https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req)) (advice requested) labels as appropriate.
+
+We ask that the discussion is open for enough time for community members to discover the discussion and participate if they choose to.
+We recommend a minimum engagement period of 1 week.
+
+If a decision is requested then the discussion will proceed to [a vote](#voting-in-an-issue) by members of the Steering Committee.
+
+### Voting in an issue
+
+When a decision is requested by the community, and after [community input](#community-input-through-a-discussion) has been gathered, a member of the Steering Committee will open a **vote comment** (see [template below]((#template-vote-comment))).
+
+Steering committee members will indicate their preference [using "emoji" reactions](https://github.blog/news-insights/product-news/add-reactions-to-pull-requests-issues-and-comments/) corresponding to the following options:
+
+1. 👍🏻 (thumbs up) or "endorse" - support the proposal
+1. 👎🏻 (thumbs down) or "reject" - do not support the proposal
+1. 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
+1. 👀 (eyes) or "abstain" - I'm not voting on this for a specific reason (e.g. conflict of interest)
+1. 🚀 (rocket) or "reassign" - this decision should be made at a different level
+
+The Steering Committee will be given a recommended 7 days to vote.
+
+This timeframe can be extended or shortened by the Steering Committee Chair with publicly documented justification for the change to the recommended length of time.
+
+### Template vote issue
+
+Below is a template vote comment that can be opened in the [Governance repository](https://github.com/the-turing-way/governance).
+
+> This is a voting issue for Steering Committee members. 
+> Steering Committee members - please either emoji react this comment or reply directly to this issue using the suggested text below to indicate your stance. 
 > 
-> @the-turing-way/steering-committee
+> ## Topic
+> *Use this section to provide a short overview of the topic you want the committee to vote on*
 > 
-> This is a voting comment for Steering Committee members - other community members please avoid reacting to this comment!
-> Continuation of discussions are encouraged through other threads.
-> 
-> Steering Committee members - please either emoji react this comment or reply directly to this comment using the suggested text below to indicate your stance.
-> 
-> ## Deadline
-> 
-> *date by which votes must be submitted*
+> ## Deadline 
+> *Provide a deadline for votes to come in - ideally this is at least 7 days. If it needs to be shorter, please explain why (application deadlines, event approaching etc).*
 > 
 > ## Proposal
+> *Use this section to explain what the Steering Committee are voting on - please link to discussions, issues, or PRs to provide context where possible. This section should have concrete actions which will occur as a result of the vote.*
 > 
-> *a description of the request and what would happen if the request is approved.*
->  
-> ### Voting guide
+> *Ideally, you should also spell out what will happen if the Steering Committee does not vote in favour of the proposal.* 
 > 
-> * 👍🏻 (thumbs up) or "endorse" - support the proposal
-> * 👎🏻 (thumbs down) or "reject" - do not support the proposal
-> * 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
-> * 👀 (eyes) or "abstain" - I'm not voting on this for a specific reason (e.g. conflict of interest)
-> * 🚀 (rocket) or "reassign" - this decision should be made at a different level
+> ## Other actions
+> *If there are other actions that would arise as a result of the vote but that have wider implications (new templates, procedures, sections of the book etc) please include them here.* 
+> 
+> ## Why is this a Steering Committee vote?
+> *One of the key aims for the Steering Committee is to ensure the community and maintainers are as empowered as possible to make decisions about their work on the Turing Way.*
+> *With this in mind, please add 1-2 sentences here to explain how this decision has reached the Steering Committee and what community engagement has happened prior to this (links to existing issues, PRs, or discussions are encouraged - no need to re-write!)*
+> 
+> ## Voting guide
+> 👍🏻 (thumbs up) or "endorse" - support the proposal 
+> 👎🏻 (thumbs down) or "reject" - do not support the proposal 
+> 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
+> 👀 (eyes) or "abstain"  - I'm not voting on this for a specific reason (e.g. conflict of interest)
+> 🚀 (rocket) or "reassign" - this decision should be made at a different level
 > 
 > Quorum for this vote is a simple majority of Steering Committee members, or exactly 50% if the Chair votes for the proposal.
