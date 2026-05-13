@@ -6,14 +6,14 @@ This document is adapted from [OLS's governance document](https://github.com/ope
 
 In this document we outline how the Steering Committee will make decisions, and provide advice, in line with three guiding principles:
 
-* Guiding Principle: [Inclusion](#guiding-principle-inclusion)
+* Guiding Principle: [**Inclusion**](#guiding-principle-inclusion)
     * [Community consultation](#community-consultation)
     * [Asynchronous voting](#asynchronous-voting)
     * [Regular process review](#regular-process-review)
-* Guiding Principle: [Empowerment](#guiding-principle-empowerment)
+* Guiding Principle: [**Empowerment**](#guiding-principle-empowerment)
     * [Decision making at the appropriate level](#decision-making-at-the-appropriate-level)
     * [Minimising abstentions](#minimising-abstentions)
-* Guiding Principle: [Transparency](#guiding-principle-transparency)
+* Guiding Principle: [**Transparency**](#guiding-principle-transparency)
     * [Public voting](#public-voting)
     * [Respecting dissent](#respecting-dissent)
     * [Publicly archiving meeting agendas and notes](#publicly-archiving-meeting-agendas-and-notes)
@@ -34,9 +34,10 @@ Before any decision is made by the Steering Committee, a dedicated GitHub discus
 This post should clearly outline the request and invite community members to express their concerns, feedback, and recommendations.
 
 Anyone can open a discussion asking for a decision or advice from the Steering Committee.
-They can draw the Steering Committee's attention to the request by adding the [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`]((https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req)) (advice requested) labels.
+They can draw the Steering Committee's attention to the request by using the "Governance" category when opening the discussion.
+The a member of the Steering Committee will add the [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`]((https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req)) (advice requested) labels as appropriate.
 
-If a decision is requested then a vote comment (see [template below](#public-voting)) will be opened within the discussion, including an explicit timeline.
+If a decision is requested then a member of the Steering Committee will open a **vote comment** (see [template below](#public-voting)) in the governance repository, including an explicit timeline.
 
 The vote comment will be cross posted to the [`#community-discussion`](https://theturingway.slack.com/archives/C014KE9A9LM) channel in The Turing Way's [Slack workspace](https://theturingway.slack.com).
 
@@ -44,13 +45,14 @@ If appropriate, the discussion may also be disseminated through the project's mo
 
 #### Timeframe
 
-For each request requiring community voting or recommendations, a timeframe of at least 5 days and at most 8 weeks will be provided after the Steering Committee approves the community engagement plan for that decision.
+For each request requiring committee input we ask that as much time as possible is provided.
+We recommend a minimum engagement period of 1 week.
 
 ### Asynchronous voting
 
 #### Implementation
 
-The only pathway for decision making by the Steering Committee is through asynchonous and public (see [below](#public-voting)) voting on a GitHub discussion post.
+The only pathway for decision making by the Steering Committee is through asynchonous and public (see [below](#public-voting)) voting on a GitHub vote issue, arising from a community wide discussion post.
 
 #### Timeframe
 
@@ -75,14 +77,18 @@ These documents will be reviewed between April and July every two years from the
 ### Decision making at the appropriate level
 
 The Steering Committee commit to making as few decisions as possible.
+If a decision can be made at the maintenance level (by a working group or delivery group) or at the community level (by an individual contributor) then the discussion post asking for a decision from the Steering Committee can be re-labelled and delegated to the appropriate level.
 
 #### Implementation
 
-If a decision can be made at the maintenance level (by a working group or delivery group) or at the community level (by an individual contributor) then the discussion post asking for a decision can be re-labelled and delegated to the appropriate level.
+Members of the Steering Committee will comment in the discussion post if they recommend reassigning a request for a steering committee vote.
+If there is consensus across the Steering Committee the reassignment will happen by an individual member of the Steering Committe.
+However, if there are differences of opinion across members of the Steering Committee then a vote issue will be opened.
+One of the options in the [vote template](#public-voting) is to "reassign" the decision to a different group and the Steering Committee members can vote for that option.
 
 #### Timeframe
 
-_Kirstie needs to get clarity from the SC about this - are we asking for a VOTE or just an informal recommendation to bump to a WG / DG?_
+Members of the Steering Committee will aim to reassign a governance request to a different team or open a vote to reassign within 1 week of the discussion thread being opened.
 
 ### Minimising abstentions
 
