@@ -154,14 +154,11 @@ Publicly archived meeting notes and public decision making votes are not suffici
 
 #### Implementation
 
-The Steering Committee will share an update on decisions made and advice provided at each quarterly Community Forum. 
-They will accompany this update with a short written report submitted via pull request to the [governance](https://github.com/the-turing-way/governance) repository.
-
-The reports will be short and easy to understand, with links to additional details as the reader requires.
+The Steering Committee will share an update on decisions made and advice provided at each quarterly Community Forum.
 
 #### Timeframe
 
-Verbal (in the Community Forum) and written (in the GitHub repository) reports will be made every three months.
+Verbal reports will be made every three months.
 
 ## Tracking decision making on GitHub
 
