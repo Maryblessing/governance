@@ -158,7 +158,8 @@ The Steering Committee will share an update on decisions made and advice provide
 
 #### Timeframe
 
-Verbal reports will be made every three months.
+Verbal reports will be made every three months at our community fora.
+Notes and slides for each community forum will be [archived](https://github.com/the-turing-way/governance/tree/main/community-forum).
 
 ## Tracking decision making on GitHub
 
