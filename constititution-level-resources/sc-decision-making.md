@@ -21,7 +21,7 @@ In this document we outline how the Steering Committee will make decisions, and 
 
 Although we have categorized our activities under the three principles, we recognise that their implementations are not specific to one individual value.
 For example, when we commit to [regular process review](#regular-process-review) we are _including_ and _empowering_ our community through a _transparent_ process.
-Similarly, our commitment to a [public](#public-voting), [asynchronous](#asynchronous-voting) vote, [minimising abstentions](#minimising-abstentions) is a mechanism that sits across all of our guiding principles.
+Similarly, our commitment to a [public](#public-voting), [asynchronous](#asynchronous-voting) vote [minimising abstentions](#minimising-abstentions) is a mechanism that sits across all of our guiding principles.
 
 At the end of the page is a summary of how we [track decision making on GitHub](#tracking-decision-making-on-github) using discussions and a [voting issue](#vote-comment-for-steering-committee-members).
 
