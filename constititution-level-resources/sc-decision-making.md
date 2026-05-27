@@ -37,7 +37,7 @@ Therefore they should all be open for community discussion before a decision is 
 Before any decision is made by the Steering Committee, a dedicated GitHub discussion post at the [GitHub organisation level](https://github.com/orgs/the-turing-way/discussions) is created.
 This post should clearly outline the request and invite community members to express their concerns, feedback, and recommendations.
 
-For more details please see the guidance on [community input through a GitHub discussion](#community-input-through-a-discussion) below.
+For more details, please see the guidance on [community input through a GitHub discussion](#community-input-through-a-discussion) below.
 
 The discussion will be cross posted to the [`#community-discussion`](https://theturingway.slack.com/archives/C014KE9A9LM) channel in The Turing Way's [Slack workspace](https://theturingway.slack.com).
 
@@ -81,7 +81,7 @@ If a decision can be made at the maintenance level (by a working group or delive
 
 #### Implementation
 
-Members of the Steering Committee will comment in the discussion post if they recommend reassigning a request for a steering committee vote.
+Members of the Steering Committee will comment in the discussion post if they recommend reassigning a request for a Steering Committee vote.
 If there is consensus across the Steering Committee the reassignment will happen by an individual member of the Steering Committe.
 However, if there are differences of opinion across members of the Steering Committee then a vote issue will be opened.
 One of the options in the [template vote issue](#template-vote-issue) is to "reassign" the decision to a different group and the Steering Committee members can vote for that option.
