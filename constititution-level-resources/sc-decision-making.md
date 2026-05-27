@@ -19,6 +19,10 @@ In this document we outline how the Steering Committee will make decisions, and 
     * [Publicly archiving meeting agendas and notes](#publicly-archiving-meeting-agendas-and-notes)
     * [Summarising decisions in regular accessible reports](#summarising-decisions-in-regular-accessible-reports)
 
+Although we have categorized our activities under the three principles, we recognise that their implementations are not specific to one individual value.
+For example, when we commit to [regular process review](#regular-process-review) we are _including_ and _empowering_ our community through a _transparent_ process.
+Similarly, our commitment to a [public](#public-voting), [asynchronous](#asynchronous-voting) vote, [minimising abstentions](#minimising-abstentions) is a mechanism that sits across all of our guiding principles.
+
 At the end of the page is a summary of how we [track decision making on GitHub](#tracking-decision-making-on-github) using discussions and a [voting issue](#vote-comment-for-steering-committee-members).
 
 ## Guiding principle: Inclusion
@@ -130,7 +134,7 @@ Discussions held during Steering Committee meetings are transparently documented
 
 At each Steering Committee meeting the members will discuss open requests for a decision or advice from the Steering Committee.
 
-These requests can be found as discussion posts labelled [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`]((https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req)) (advice requested).
+These requests can be found as discussion posts labelled [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req) (advice requested).
 
 The Chair and Secretary will review and discuss the GitHub issues and prioritise them - getting input from the other members of the Steering Committee - at least 3 days ahead of the meeting.
 
@@ -166,7 +170,7 @@ Verbal (in the Community Forum) and written (in the GitHub repository) reports w
 Anyone can open a discussion asking for a decision or advice from the Steering Committee.
 They can draw the Steering Committee's attention to the request by using the "Governance" category when opening the discussion.
 
-The a member of the Steering Committee will add the [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`]((https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req)) (advice requested) labels as appropriate.
+The a member of the Steering Committee will add the [`gov-sc-dec-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-dec-req) (decision requested) or [`gov-sc-advice-req`](https://github.com/orgs/the-turing-way/discussions?discussions_q=label%3Agov-sc-advice-req) (advice requested) labels as appropriate.
 
 We ask that the discussion is open for enough time for community members to discover the discussion and participate if they choose to.
 We recommend a minimum engagement period of 1 week.
@@ -179,11 +183,11 @@ When a decision is requested by the community, and after [community input](#comm
 
 Steering committee members will indicate their preference [using "emoji" reactions](https://github.blog/news-insights/product-news/add-reactions-to-pull-requests-issues-and-comments/) corresponding to the following options:
 
-1. 👍🏻 (thumbs up) or "endorse" - support the proposal
-1. 👎🏻 (thumbs down) or "reject" - do not support the proposal
-1. 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
-1. 👀 (eyes) or "abstain" - I'm not voting on this for a specific reason (e.g. conflict of interest)
-1. 🚀 (rocket) or "reassign" - this decision should be made at a different level
+* 👍🏻 (thumbs up) or "endorse" - support the proposal
+* 👎🏻 (thumbs down) or "reject" - do not support the proposal
+* 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
+* 👀 (eyes) or "abstain" - I'm not voting on this for a specific reason (e.g. conflict of interest)
+* 🚀 (rocket) or "reassign" - this decision should be made at a different level
 
 The Steering Committee will be given a recommended 7 days to vote.
 
@@ -215,10 +219,10 @@ Below is a template vote comment that can be opened in the [Governance repositor
 > *With this in mind, please add 1-2 sentences here to explain how this decision has reached the Steering Committee and what community engagement has happened prior to this (links to existing issues, PRs, or discussions are encouraged - no need to re-write!)*
 > 
 > ## Voting guide
-> 👍🏻 (thumbs up) or "endorse" - support the proposal 
-> 👎🏻 (thumbs down) or "reject" - do not support the proposal 
-> 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
-> 👀 (eyes) or "abstain"  - I'm not voting on this for a specific reason (e.g. conflict of interest)
-> 🚀 (rocket) or "reassign" - this decision should be made at a different level
+> * 👍🏻 (thumbs up) or "endorse" - support the proposal 
+> * 👎🏻 (thumbs down) or "reject" - do not support the proposal 
+> * 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
+> * 👀 (eyes) or "abstain"  - I'm not voting on this for a specific reason (e.g. conflict of interest)
+> * 🚀 (rocket) or "reassign" - this decision should be made at a different level
 > 
 > Quorum for this vote is a simple majority of Steering Committee members, or exactly 50% if the Chair votes for the proposal.
