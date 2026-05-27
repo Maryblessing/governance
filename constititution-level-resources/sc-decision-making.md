@@ -45,7 +45,7 @@ If appropriate, the discussion may also be disseminated through the project's mo
 
 #### Timeframe
 
-For each request requiring community input we ask that as much time as possible is provided.
+For each request requiring community input, we ask that as much time as possible is provided.
 We recommend a minimum engagement period of 1 week.
 
 ### Asynchronous voting
