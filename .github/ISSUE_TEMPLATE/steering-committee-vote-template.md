@@ -4,9 +4,7 @@ about: For opening an issue soliciting a Steering Committee vote on a topic
 title: 'Steering Committee Vote: [TOPIC] - [DEADLINE YYYY-MM-DD]'
 labels: 'gov-sc-vote'
 assignees: 'the-turing-way/steering-committee'
-
 ---
-
 
 This is a voting issue for Steering Committee members. 
 Steering Committee members - please either emoji react this comment or reply directly to this issue using the suggested text below to indicate your stance. 
@@ -34,7 +32,10 @@ With this in mind, please add 1-2 sentences here to explain how this decision ha
 -->
 
 ## Voting guide
-👍🏻 (thumbs up) or "endorse" - support the proposal 
-👎🏻 (thumbs down) or "reject" - do not support the proposal 
-😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
-👀 (eyes) or "abstain"  - I'm not voting on this for a specific reason (e.g. conflict of interest)
+* 👍🏻 (thumbs up) or "endorse" - support the proposal 
+* 👎🏻 (thumbs down) or "reject" - do not support the proposal 
+* 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
+* 👀 (eyes) or "abstain"  - I'm not voting on this for a specific reason (e.g. conflict of interest)
+* 🚀 (rocket) or "reassign" - this decision should be made at a different level
+
+Quorum for this vote is a simple majority of Steering Committee members, or exactly 50% if the Chair votes for the proposal.
